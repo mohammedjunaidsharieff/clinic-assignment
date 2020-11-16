@@ -1,0 +1,25 @@
+body{
+    margin: 100px;
+    padding: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    height:100vh;
+    background-image: url(ad1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+table, th, td {
+    background-color: seashell;
+    border: 1px solid black;
+    width: 50%;
+  }
+  a {
+    background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+  }
+      
